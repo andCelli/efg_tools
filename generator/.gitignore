@@ -1,0 +1,18 @@
+.idea
+.logs
+.output
+
+# Playing files
+logs/Playing/*.txt
+output/Playing/*.txt
+
+# Bidding files
+logs/Bidding/*.txt
+output/Bidding/*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+
+# MacOS
+.DS_Store
