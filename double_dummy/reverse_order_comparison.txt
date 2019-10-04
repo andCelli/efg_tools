@@ -1,0 +1,508 @@
+Output of comparison between increasing and decreasing sorting of cards.
+
+
+
+Processing iteration 0...
+
+2:c, 7:d, 3:h, 7:h, 3:s, 5:s, A:s,
+5:c, A:c, 5:h, A:h, 2:s, 4:s, 7:s,
+3:c, 6:c, 3:d, 4:d, 2:h, 6:h, 6:s,
+4:c, 7:c, 2:d, 5:d, 6:d, A:d, 4:h,
+Processing...
+Normal		Result = 1, elapsed = 76.078s
+Reversed		Result = 1, elapsed = 56.335s
+---------------------------------------------------------------------------------------
+Processing iteration 1...
+
+2:c, 5:d, 6:d, A:d, 2:h, 5:s, A:s,
+2:d, 4:h, 6:h, A:h, 2:s, 4:s, 6:s,
+3:c, 4:c, 7:c, A:c, 3:d, 4:d, 7:d,
+5:c, 6:c, 3:h, 5:h, 7:h, 3:s, 7:s,
+Processing...
+Normal		Result = 7, elapsed = 159.663s
+Reversed		Result = 7, elapsed = 34.641s
+---------------------------------------------------------------------------------------
+Processing iteration 2...
+
+3:c, 7:c, 3:d, 3:h, 2:s, 4:s, 6:s,
+4:d, 7:d, A:d, 4:h, 3:s, 7:s, A:s,
+2:c, 5:c, 6:c, 5:d, 2:h, 6:h, A:h,
+4:c, A:c, 2:d, 6:d, 5:h, 7:h, 5:s,
+Processing...
+Normal		Result = 1, elapsed = 77.937s
+Reversed		Result = 1, elapsed = 79.504s
+---------------------------------------------------------------------------------------
+Processing iteration 3...
+
+6:c, A:c, 3:d, 4:d, 6:h, A:h, A:s,
+4:c, 5:d, 6:d, A:d, 7:h, 5:s, 7:s,
+3:c, 5:c, 7:c, 2:d, 7:d, 2:h, 4:s,
+2:c, 3:h, 4:h, 5:h, 2:s, 3:s, 6:s,
+Processing...
+Normal		Result = 6, elapsed = 7.601s
+Reversed		Result = 6, elapsed = 1.962s
+---------------------------------------------------------------------------------------
+Processing iteration 4...
+
+3:c, 7:c, 3:d, 4:d, 6:h, 3:s, A:s,
+6:c, A:c, 5:d, 6:d, A:d, 3:h, A:h,
+4:c, 5:c, 2:d, 4:h, 5:h, 6:s, 7:s,
+2:c, 7:d, 2:h, 7:h, 2:s, 4:s, 5:s,
+Processing...
+Normal		Result = 2, elapsed = 5.999s
+Reversed		Result = 2, elapsed = 1.623s
+---------------------------------------------------------------------------------------
+Processing iteration 5...
+
+2:d, 3:d, A:d, 5:h, 4:s, 7:s, A:s,
+2:c, 4:c, 6:c, 6:d, 3:h, 6:h, A:h,
+A:c, 5:d, 4:h, 7:h, 2:s, 3:s, 5:s,
+3:c, 5:c, 7:c, 4:d, 7:d, 2:h, 6:s,
+Processing...
+Normal		Result = 6, elapsed = 40.788s
+Reversed		Result = 6, elapsed = 80.574s
+---------------------------------------------------------------------------------------
+Processing iteration 6...
+
+3:c, 5:c, 3:d, 6:d, 7:d, 4:s, A:s,
+4:c, 2:d, 4:d, 3:h, A:h, 2:s, 5:s,
+2:c, 6:c, A:c, 5:d, 4:h, 5:h, 6:h,
+7:c, A:d, 2:h, 7:h, 3:s, 6:s, 7:s,
+Processing...
+Normal		Result = 4, elapsed = 24.162s
+Reversed		Result = 4, elapsed = 15.440s
+---------------------------------------------------------------------------------------
+Processing iteration 7...
+
+A:c, 5:d, 7:h, A:h, 2:s, 3:s, 5:s,
+2:c, 5:c, 6:c, 4:d, A:d, 6:h, 4:s,
+4:c, 3:d, 2:h, 3:h, 5:h, 6:s, 7:s,
+3:c, 7:c, 2:d, 6:d, 7:d, 4:h, A:s,
+Processing...
+Normal		Result = 3, elapsed = 2.947s
+Reversed		Result = 3, elapsed = 4.476s
+---------------------------------------------------------------------------------------
+Processing iteration 8...
+
+4:d, 5:d, A:d, 4:h, 3:s, 5:s, A:s,
+2:c, 3:c, 2:h, 3:h, 5:h, 6:h, 4:s,
+5:c, 6:c, 7:c, 6:d, 7:d, 2:s, 7:s,
+4:c, A:c, 2:d, 3:d, 7:h, A:h, 6:s,
+Processing...
+Normal		Result = 6, elapsed = 9.860s
+Reversed		Result = 6, elapsed = 2.506s
+---------------------------------------------------------------------------------------
+Processing iteration 9...
+
+3:c, 3:d, 4:d, 7:d, 4:h, 5:h, 2:s,
+2:d, 2:h, A:h, 3:s, 4:s, 6:s, 7:s,
+4:c, 5:d, A:d, 3:h, 7:h, 5:s, A:s,
+2:c, 5:c, 6:c, 7:c, A:c, 6:d, 6:h,
+Processing...
+Normal		Result = 5, elapsed = 45.768s
+Reversed		Result = 5, elapsed = 16.404s
+---------------------------------------------------------------------------------------
+Processing iteration 10...
+
+4:c, 5:c, 7:c, 6:d, 4:h, 6:h, 2:s,
+6:c, A:c, 2:d, 3:h, 5:h, 3:s, 6:s,
+3:c, 4:d, 5:d, A:d, 4:s, 7:s, A:s,
+2:c, 3:d, 7:d, 2:h, 7:h, A:h, 5:s,
+Processing...
+Normal		Result = 4, elapsed = 17.845s
+Reversed		Result = 4, elapsed = 7.047s
+---------------------------------------------------------------------------------------
+Processing iteration 11...
+
+6:c, 7:c, 3:h, 4:h, 6:h, 5:s, A:s,
+3:c, 5:c, A:c, 4:d, 7:h, 4:s, 6:s,
+2:c, 5:d, 7:d, A:d, 2:h, 2:s, 7:s,
+4:c, 2:d, 3:d, 6:d, 5:h, A:h, 3:s,
+Processing...
+Normal		Result = 5, elapsed = 6.554s
+Reversed		Result = 5, elapsed = 8.035s
+---------------------------------------------------------------------------------------
+Processing iteration 12...
+
+2:c, A:c, 5:d, 2:s, 4:s, 5:s, 6:s,
+7:c, 4:d, 7:d, A:d, 3:h, 4:h, 7:s,
+4:c, 5:c, 2:d, 6:h, 7:h, A:h, A:s,
+3:c, 6:c, 3:d, 6:d, 2:h, 5:h, 3:s,
+Processing...
+Normal		Result = 7, elapsed = 1.112s
+Reversed		Result = 7, elapsed = 0.581s
+---------------------------------------------------------------------------------------
+Processing iteration 13...
+
+2:c, 5:c, 2:d, 7:d, 3:h, 4:h, 4:s,
+7:c, 3:d, 5:d, A:d, A:h, 6:s, A:s,
+6:c, 4:d, 5:h, 6:h, 7:h, 2:s, 7:s,
+3:c, 4:c, A:c, 6:d, 2:h, 3:s, 5:s,
+Processing...
+Normal		Result = 1, elapsed = 4.941s
+Reversed		Result = 1, elapsed = 4.103s
+---------------------------------------------------------------------------------------
+Processing iteration 14...
+
+3:c, 5:c, 6:c, 7:c, 4:h, 2:s, 6:s,
+2:c, 6:d, 7:d, 7:h, A:h, 3:s, 4:s,
+4:c, A:c, 3:d, 4:d, 3:h, 7:s, A:s,
+2:d, 5:d, A:d, 2:h, 5:h, 6:h, 5:s,
+Processing...
+Normal		Result = 6, elapsed = 13.893s
+Reversed		Result = 6, elapsed = 0.914s
+---------------------------------------------------------------------------------------
+Processing iteration 15...
+
+4:c, 7:c, 2:d, 4:d, 5:d, 6:h, 5:s,
+A:c, 3:d, 6:d, A:d, 2:h, 3:h, A:s,
+7:d, 5:h, 7:h, A:h, 2:s, 4:s, 7:s,
+2:c, 3:c, 5:c, 6:c, 4:h, 3:s, 6:s,
+Processing...
+Normal		Result = 3, elapsed = 17.256s
+Reversed		Result = 3, elapsed = 13.247s
+---------------------------------------------------------------------------------------
+Processing iteration 16...
+
+4:c, 7:c, A:c, 5:d, 6:d, 7:d, 5:h,
+3:c, 2:d, 3:h, 6:h, 2:s, 7:s, A:s,
+2:c, 5:c, 6:c, 3:d, 4:d, A:d, 4:s,
+2:h, 4:h, 7:h, A:h, 3:s, 5:s, 6:s,
+Processing...
+Normal		Result = 6, elapsed = 27.247s
+Reversed		Result = 6, elapsed = 61.361s
+---------------------------------------------------------------------------------------
+Processing iteration 17...
+
+2:c, 2:d, 4:d, 4:h, 5:h, 3:s, 7:s,
+3:d, 6:h, 7:h, A:h, 4:s, 5:s, A:s,
+3:c, 5:c, 7:c, 6:d, 7:d, 2:h, 2:s,
+4:c, 6:c, A:c, 5:d, A:d, 3:h, 6:s,
+Processing...
+Normal		Result = 0, elapsed = 22.307s
+Reversed		Result = 0, elapsed = 6.821s
+---------------------------------------------------------------------------------------
+Processing iteration 18...
+
+A:c, 4:d, 6:d, 4:h, 6:h, 2:s, 7:s,
+2:c, 3:c, 3:d, A:d, 3:h, 7:h, 6:s,
+6:c, 5:d, 5:h, A:h, 3:s, 4:s, A:s,
+4:c, 5:c, 7:c, 2:d, 7:d, 2:h, 5:s,
+Processing...
+Normal		Result = 6, elapsed = 8.534s
+Reversed		Result = 6, elapsed = 3.288s
+---------------------------------------------------------------------------------------
+Processing iteration 19...
+
+3:c, 6:d, A:d, 3:h, 4:h, A:h, 6:s,
+2:c, 4:c, 2:d, 7:d, 2:h, 5:h, 3:s,
+5:c, A:c, 5:d, 7:h, 2:s, 5:s, 7:s,
+6:c, 7:c, 3:d, 4:d, 6:h, 4:s, A:s,
+Processing...
+Normal		Result = 6, elapsed = 5.995s
+Reversed		Result = 6, elapsed = 10.542s
+---------------------------------------------------------------------------------------
+Processing iteration 20...
+
+3:c, 5:c, 6:c, 3:h, 6:h, 7:h, 7:s,
+2:d, 5:d, 6:d, 2:h, 2:s, 5:s, A:s,
+2:c, 7:c, 3:d, 4:d, 4:h, 5:h, 6:s,
+4:c, A:c, 7:d, A:d, A:h, 3:s, 4:s,
+Processing...
+Normal		Result = 0, elapsed = 7.084s
+Reversed		Result = 0, elapsed = 4.149s
+---------------------------------------------------------------------------------------
+Processing iteration 21...
+
+6:c, 2:d, 3:d, 5:d, 7:d, 3:s, A:s,
+2:c, 4:h, 5:h, 6:h, A:h, 2:s, 4:s,
+4:c, 7:c, 4:d, 6:d, 3:h, 6:s, 7:s,
+3:c, 5:c, A:c, A:d, 2:h, 7:h, 5:s,
+Processing...
+Normal		Result = 2, elapsed = 56.038s
+Reversed		Result = 2, elapsed = 20.991s
+---------------------------------------------------------------------------------------
+Processing iteration 22...
+
+6:c, 3:d, 4:d, A:d, 3:h, A:h, 3:s,
+4:c, 2:d, 2:h, 7:h, 5:s, 6:s, A:s,
+5:c, 7:c, A:c, 7:d, 4:h, 2:s, 4:s,
+2:c, 3:c, 5:d, 6:d, 5:h, 6:h, 7:s,
+Processing...
+Normal		Result = 7, elapsed = 2.501s
+Reversed		Result = 7, elapsed = 2.381s
+---------------------------------------------------------------------------------------
+Processing iteration 23...
+
+3:c, A:c, 4:d, 5:h, 6:h, 7:h, 6:s,
+2:c, 4:c, 6:c, 5:d, 3:h, 2:s, 3:s,
+5:c, 3:d, 6:d, 7:d, 2:h, 5:s, 7:s,
+7:c, 2:d, A:d, 4:h, A:h, 4:s, A:s,
+Processing...
+Normal		Result = 3, elapsed = 3.457s
+Reversed		Result = 3, elapsed = 1.907s
+---------------------------------------------------------------------------------------
+Processing iteration 24...
+
+6:c, A:c, 3:d, A:d, 4:h, 3:s, 4:s,
+4:c, 5:c, 7:d, 2:h, 5:h, 6:h, 6:s,
+4:d, 5:d, 6:d, 7:h, A:h, 2:s, 5:s,
+2:c, 3:c, 7:c, 2:d, 3:h, 7:s, A:s,
+Processing...
+Normal		Result = 6, elapsed = 2.763s
+Reversed		Result = 6, elapsed = 0.804s
+---------------------------------------------------------------------------------------
+Processing iteration 25...
+
+2:c, 5:c, A:c, A:d, 3:h, 2:s, A:s,
+3:c, 6:c, 2:d, 6:d, 7:h, A:h, 4:s,
+4:c, 4:d, 7:d, 2:h, 4:h, 5:h, 6:h,
+7:c, 3:d, 5:d, 3:s, 5:s, 6:s, 7:s,
+Processing...
+Normal		Result = 4, elapsed = 11.462s
+Reversed		Result = 4, elapsed = 21.049s
+---------------------------------------------------------------------------------------
+Processing iteration 26...
+
+3:c, 4:c, 6:c, 4:d, 7:d, 3:s, A:s,
+A:c, 2:h, 7:h, A:h, 4:s, 6:s, 7:s,
+2:c, 5:c, 2:d, 3:h, 4:h, 5:h, 5:s,
+7:c, 3:d, 5:d, 6:d, A:d, 6:h, 2:s,
+Processing...
+Normal		Result = 3, elapsed = 5.109s
+Reversed		Result = 3, elapsed = 4.352s
+---------------------------------------------------------------------------------------
+Processing iteration 27...
+
+3:c, 5:c, 2:d, 7:h, A:h, 4:s, 6:s,
+2:c, 6:c, A:c, 4:d, 5:s, 7:s, A:s,
+4:c, 5:d, 6:d, A:d, 2:h, 5:h, 6:h,
+7:c, 3:d, 7:d, 3:h, 4:h, 2:s, 3:s,
+Processing...
+Normal		Result = 4, elapsed = 16.762s
+Reversed		Result = 4, elapsed = 12.930s
+---------------------------------------------------------------------------------------
+Processing iteration 28...
+
+3:c, 2:d, 6:d, 7:h, A:h, 7:s, A:s,
+2:c, A:c, 4:d, 2:h, 4:h, 3:s, 5:s,
+4:c, 7:c, 7:d, A:d, 3:h, 6:h, 4:s,
+5:c, 6:c, 3:d, 5:d, 5:h, 2:s, 6:s,
+Processing...
+Normal		Result = 6, elapsed = 1.233s
+Reversed		Result = 6, elapsed = 0.659s
+---------------------------------------------------------------------------------------
+Processing iteration 29...
+
+3:c, 4:c, 3:d, 4:d, 2:h, A:h, 2:s,
+5:c, 7:d, 4:h, 5:h, 6:h, 4:s, A:s,
+6:c, 7:c, 5:d, 6:d, A:d, 3:h, 5:s,
+2:c, A:c, 2:d, 7:h, 3:s, 6:s, 7:s,
+Processing...
+Normal		Result = 4, elapsed = 2.158s
+Reversed		Result = 4, elapsed = 1.590s
+---------------------------------------------------------------------------------------
+Processing iteration 30...
+
+5:c, A:c, 2:d, 3:h, 6:s, 7:s, A:s,
+2:c, 3:c, 4:c, 4:d, 2:h, 4:s, 5:s,
+6:c, 5:d, 6:d, 4:h, 7:h, 2:s, 3:s,
+7:c, 3:d, 7:d, A:d, 5:h, 6:h, A:h,
+Processing...
+Normal		Result = 5, elapsed = 1.201s
+Reversed		Result = 5, elapsed = 1.687s
+---------------------------------------------------------------------------------------
+Processing iteration 31...
+
+2:c, 5:d, 7:d, 3:s, 5:s, 6:s, A:s,
+3:c, 7:c, A:c, 6:d, 4:h, 7:h, 7:s,
+4:c, 5:c, 3:d, 5:h, 6:h, A:h, 2:s,
+6:c, 2:d, 4:d, A:d, 2:h, 3:h, 4:s,
+Processing...
+Normal		Result = 4, elapsed = 16.503s
+Reversed		Result = 4, elapsed = 9.442s
+---------------------------------------------------------------------------------------
+Processing iteration 32...
+
+4:c, 5:c, 7:c, 7:d, 7:h, 3:s, A:s,
+A:c, 2:d, 3:d, 5:h, 6:h, A:h, 7:s,
+3:c, 4:d, 6:d, 3:h, 4:h, 2:s, 6:s,
+2:c, 6:c, 5:d, A:d, 2:h, 4:s, 5:s,
+Processing...
+Normal		Result = 2, elapsed = 3.325s
+Reversed		Result = 2, elapsed = 1.643s
+---------------------------------------------------------------------------------------
+Processing iteration 33...
+
+3:c, 6:c, 7:c, A:d, 2:h, A:h, 7:s,
+2:c, 2:d, 5:d, 7:d, 5:h, 2:s, 4:s,
+A:c, 4:d, 6:d, 4:h, 7:h, 3:s, A:s,
+4:c, 5:c, 3:d, 3:h, 6:h, 5:s, 6:s,
+Processing...
+Normal		Result = 7, elapsed = 4.009s
+Reversed		Result = 7, elapsed = 3.974s
+---------------------------------------------------------------------------------------
+Processing iteration 34...
+
+6:d, 5:h, A:h, 3:s, 4:s, 5:s, 6:s,
+3:c, 4:c, 5:c, 7:c, A:c, 2:d, 7:s,
+3:d, 7:d, A:d, 2:h, 6:h, 7:h, A:s,
+2:c, 6:c, 4:d, 5:d, 3:h, 4:h, 2:s,
+Processing...
+Normal		Result = 7, elapsed = 0.504s
+Reversed		Result = 7, elapsed = 0.643s
+---------------------------------------------------------------------------------------
+Processing iteration 35...
+
+5:c, 6:c, 3:d, 5:d, 5:h, 7:h, 5:s,
+A:c, 2:d, 4:d, 7:d, 6:h, 3:s, 6:s,
+3:c, 4:c, 7:c, A:d, 2:h, 3:h, 4:h,
+2:c, 6:d, A:h, 2:s, 4:s, 7:s, A:s,
+Processing...
+Normal		Result = 1, elapsed = 7.229s
+Reversed		Result = 1, elapsed = 7.554s
+---------------------------------------------------------------------------------------
+Processing iteration 36...
+
+5:c, 6:c, 6:d, 3:h, 7:h, 6:s, 7:s,
+3:c, 4:c, 5:d, 2:h, 5:h, A:h, 4:s,
+2:c, 3:d, 4:d, 7:d, 6:h, 2:s, 3:s,
+7:c, A:c, 2:d, A:d, 4:h, 5:s, A:s,
+Processing...
+Normal		Result = 2, elapsed = 0.986s
+Reversed		Result = 2, elapsed = 0.676s
+---------------------------------------------------------------------------------------
+Processing iteration 37...
+
+3:c, 4:c, 6:d, 3:h, A:h, 6:s, A:s,
+2:c, 6:c, 7:c, 4:d, 5:d, 2:h, 5:h,
+3:d, 7:d, 4:h, 6:h, 4:s, 5:s, 7:s,
+5:c, A:c, 2:d, A:d, 7:h, 2:s, 3:s,
+Processing...
+Normal		Result = 5, elapsed = 11.297s
+Reversed		Result = 5, elapsed = 4.005s
+---------------------------------------------------------------------------------------
+Processing iteration 38...
+
+4:c, 6:c, 7:c, 5:d, A:d, 4:s, 5:s,
+2:c, 3:c, 5:c, 2:d, 2:h, 2:s, 3:s,
+3:d, 7:d, 4:h, 5:h, 6:h, 7:h, A:s,
+A:c, 4:d, 6:d, 3:h, A:h, 6:s, 7:s,
+Processing...
+Normal		Result = 5, elapsed = 0.706s
+Reversed		Result = 5, elapsed = 0.956s
+---------------------------------------------------------------------------------------
+Processing iteration 39...
+
+3:c, 4:d, 7:d, 3:h, 5:h, 6:h, A:s,
+2:c, 5:d, 4:h, A:h, 4:s, 5:s, 6:s,
+5:c, 6:c, 2:d, 3:d, 6:d, 2:h, 7:h,
+4:c, 7:c, A:c, A:d, 2:s, 3:s, 7:s,
+Processing...
+Normal		Result = 3, elapsed = 5.263s
+Reversed		Result = 3, elapsed = 12.615s
+---------------------------------------------------------------------------------------
+Processing iteration 40...
+
+2:c, 3:c, 4:d, 7:d, A:d, 6:h, 7:h,
+6:c, 7:c, 2:d, 2:h, 4:h, 2:s, 3:s,
+A:c, 3:d, 5:d, 6:d, 3:h, 5:s, 7:s,
+4:c, 5:c, 5:h, A:h, 4:s, 6:s, A:s,
+Processing...
+Normal		Result = 5, elapsed = 9.850s
+Reversed		Result = 5, elapsed = 3.567s
+---------------------------------------------------------------------------------------
+Processing iteration 41...
+
+3:c, 4:c, 7:c, 7:d, A:d, 3:s, 5:s,
+2:c, 5:c, 6:c, 2:d, 3:d, 2:h, 4:h,
+4:d, 5:h, 7:h, A:h, 2:s, 4:s, 7:s,
+A:c, 5:d, 6:d, 3:h, 6:h, 6:s, A:s,
+Processing...
+Normal		Result = 4, elapsed = 12.787s
+Reversed		Result = 4, elapsed = 18.055s
+---------------------------------------------------------------------------------------
+Processing iteration 42...
+
+3:c, 6:c, 2:d, 4:h, A:h, 4:s, A:s,
+2:c, 5:c, A:c, 3:d, 4:d, 5:d, 6:d,
+4:c, 7:d, 2:s, 3:s, 5:s, 6:s, 7:s,
+7:c, A:d, 2:h, 3:h, 5:h, 6:h, 7:h,
+Processing...
+Normal		Result = 6, elapsed = 26.089s
+Reversed		Result = 6, elapsed = 21.948s
+---------------------------------------------------------------------------------------
+Processing iteration 43...
+
+7:d, A:d, 2:h, 4:h, 7:h, 2:s, 7:s,
+3:c, 7:c, 4:d, 5:d, 3:s, 4:s, 6:s,
+2:c, 5:c, A:c, 2:d, 3:d, 6:d, 6:h,
+4:c, 6:c, 3:h, 5:h, A:h, 5:s, A:s,
+Processing...
+Normal		Result = 4, elapsed = 57.196s
+Reversed		Result = 4, elapsed = 68.685s
+---------------------------------------------------------------------------------------
+Processing iteration 44...
+
+A:c, 2:d, 5:d, A:d, A:h, 2:s, A:s,
+2:c, 3:d, 7:h, 3:s, 4:s, 5:s, 7:s,
+3:c, 7:d, 2:h, 3:h, 4:h, 5:h, 6:s,
+4:c, 5:c, 6:c, 7:c, 4:d, 6:d, 6:h,
+Processing...
+Normal		Result = 7, elapsed = 0.703s
+Reversed		Result = 7, elapsed = 3.674s
+---------------------------------------------------------------------------------------
+Processing iteration 45...
+
+3:h, 5:h, 6:h, 2:s, 3:s, 4:s, 6:s,
+2:c, 3:c, 7:c, 6:d, 2:h, 4:h, 5:s,
+4:c, 5:c, 2:d, 3:d, 5:d, 7:d, A:s,
+6:c, A:c, 4:d, A:d, 7:h, A:h, 7:s,
+Processing...
+Normal		Result = 1, elapsed = 7.228s
+Reversed		Result = 1, elapsed = 3.368s
+---------------------------------------------------------------------------------------
+Processing iteration 46...
+
+3:c, 7:c, 2:d, 7:d, 4:h, 6:h, A:h,
+A:c, 3:d, 4:d, 5:d, 3:h, 7:h, 4:s,
+2:c, 6:c, A:d, 2:h, 5:h, 3:s, 7:s,
+4:c, 5:c, 6:d, 2:s, 5:s, 6:s, A:s,
+Processing...
+Normal		Result = 3, elapsed = 40.881s
+Reversed		Result = 3, elapsed = 37.175s
+---------------------------------------------------------------------------------------
+Processing iteration 47...
+
+2:c, 5:c, A:c, 3:d, 6:h, 4:s, 7:s,
+6:c, 2:d, 7:d, A:d, A:h, 3:s, A:s,
+4:d, 5:d, 2:h, 3:h, 5:h, 2:s, 6:s,
+3:c, 4:c, 7:c, 6:d, 4:h, 7:h, 5:s,
+Processing...
+Normal		Result = 2, elapsed = 17.236s
+Reversed		Result = 2, elapsed = 4.054s
+---------------------------------------------------------------------------------------
+Processing iteration 48...
+
+2:c, 6:c, 2:d, 4:d, 5:h, 3:s, 6:s,
+4:c, 7:c, 3:d, 4:h, 2:s, 4:s, 5:s,
+A:c, 6:d, 7:d, 3:h, 6:h, 7:h, 7:s,
+3:c, 5:c, 5:d, A:d, 2:h, A:h, A:s,
+Processing...
+Normal		Result = 3, elapsed = 3.162s
+Reversed		Result = 3, elapsed = 2.934s
+---------------------------------------------------------------------------------------
+Processing iteration 49...
+
+2:c, 4:c, 5:c, 6:c, 5:d, 7:h, 5:s,
+3:c, 7:c, 2:d, A:d, 4:h, 6:h, 6:s,
+3:d, 4:d, 6:d, 5:h, A:h, 4:s, A:s,
+A:c, 7:d, 2:h, 3:h, 2:s, 3:s, 7:s,
+Processing...
+Normal		Result = 3, elapsed = 1.630s
+Reversed		Result = 3, elapsed = 6.677s
+---------------------------------------------------------------------------------------
+ normal times = ['76.07769s', '159.66290s', '77.93741s', '7.60050s', '5.99903s', '40.78761s', '24.16207s', '2.94703s', '9.85976s', '45.76797s', '17.84514s', '6.55385s', '1.11164s', '4.94138s', '13.89344s', '17.25633s', '27.24705s', '22.30667s', '8.53420s', '5.99503s', '7.08367s', '56.03760s', '2.50118s', '3.45686s', '2.76309s', '11.46224s', '5.10932s', '16.76250s', '1.23260s', '2.15829s', '1.20061s', '16.50258s', '3.32491s', '4.00868s', '0.50383s', '7.22863s', '0.98568s', '11.29729s', '0.70577s', '5.26327s', '9.84977s', '12.78680s', '26.08943s', '57.19622s', '0.70277s', '7.22763s', '40.88058s', '17.23634s', '3.16196s', '1.63046s']
+normal mean time = 18.25675s, variance = 772.9522050929569
+reverse times = ['56.33450s', '34.64062s', '79.50489s', '1.96236s', '1.62347s', '80.57354s', '15.43993s', '4.47553s', '2.50618s', '16.40361s', '7.04669s', '8.03536s', '0.58081s', '4.10265s', '0.91370s', '13.24665s', '61.36085s', '6.82076s', '3.28792s', '10.54154s', '4.14864s', '20.99111s', '2.38122s', '1.90737s', '0.80374s', '21.04909s', '4.35157s', '12.92975s', '0.65878s', '1.59048s', '1.68745s', '9.44190s', '1.64346s', '3.97370s', '0.64279s', '7.55352s', '0.67578s', '4.00468s', '0.95569s', '12.61486s', '3.56683s', '18.05507s', '21.94779s', '68.68545s', '3.67379s', '3.36789s', '37.17479s', '4.05367s', '2.93404s', '6.67681s']
+reverse mean time = 13.87087s, variance = 424.63611767513

@@ -1,0 +1,1 @@
+In this folder you will find logging files useful to read the infosets generated, the treeplexes and the payoffs

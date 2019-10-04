@@ -1,0 +1,11 @@
+.idea
+
+# Logs
+*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+
+# MacOS
+.DS_Store
